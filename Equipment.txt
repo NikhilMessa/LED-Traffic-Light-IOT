@@ -1,0 +1,8 @@
+Equipment
+The equipment I have used in this Arduino traffic light project is listed right below.
+Recommended
+Arduino Uno
+Red LED, Yellow LED, and Green LED
+3 x 100 Ohm resistor (Color = Brown Black Brown)
+Breadboard wire
+Breadboard
